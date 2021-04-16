@@ -4,16 +4,13 @@ Myfatoorah Payment Gateway for Laravel 5*
 
 ## Installation
 
-Add `vmdevelopment/myfatoorah-laravel` to your `composer.json`.
-```
-"vmdevelopment/myfatoorah-laravel": "~1.0.*"
-```
+
 
 Run `composer update` to pull down the latest version of package.
 
 OR simply run
 ```
-composer require "vmdevelopment/myfatoorah-laravel"
+composer require wael-moh/myfatoorah-laravel
 ```
 
 Now open up `/config/app.php` and add the service provider to your `providers` array.
