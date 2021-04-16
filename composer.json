@@ -1,12 +1,12 @@
 {
-  "name": "vmdevelopment/myfatoorah-laravel",
-    "description": "Myfathoorah REST API package",
+  "name": "WaelMoH/myfatoorah-laravel",
+    "description": "Myfathoorah REST API package, Original from vmdevelopment",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vanand Mkrtchyan",
-            "email": "vanand@vm-development.com",
-            "homepage": "http://www.vm-development.com/"
+            "name": "Wael Moh",
+            "email": "w.m4ilb0x@gmail.com",
+            "homepage": "http://www.wael-moh.com/"
         }
     ],
     "minimum-stability": "dev",
